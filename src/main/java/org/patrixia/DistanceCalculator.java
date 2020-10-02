@@ -5,7 +5,7 @@ import java.text.DecimalFormat;
 public class DistanceCalculator {
 
     private DistanceCalculator() {}
-
+    
     
     /*
      * Recibe texto en formato de coordenada GPS de la forma
