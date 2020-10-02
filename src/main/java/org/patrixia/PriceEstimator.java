@@ -6,7 +6,7 @@ public class PriceEstimator {
 
     private PriceEstimator() {}
 
-    public Double estimatePrice(Double kms) {
+    public static Double estimatePrice(Double kms) {
         return kms*PRICE_PER_KM;
     }
 
